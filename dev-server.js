@@ -21,7 +21,7 @@ new WebpackDevServer(compiler, {
   if (err) {
     console.log(err);
   } else {
-    console.log('Dev Server listening at http://127.0.0.1:' + devConfig.port);
+    console.log('Dev Server listening at http://127.0.0.1:8081/#/galaxy/wikivis_demo_data'); // + devConfig.port);
   }
 });
 

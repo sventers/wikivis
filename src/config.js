@@ -1,3 +1,3 @@
 export default {
-  dataUrl: '//anvaka.github.io/galactic-data/'
+  dataUrl: 'http://127.0.0.1:8080/'
 };

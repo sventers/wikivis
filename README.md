@@ -1,4 +1,12 @@
-# Software Galaxies
+# Wikivis
+
+I adapted anvaka's pm visualization to some wikipedia link clusters
+
+At the moment this is effort 0.1 in trying to deploy to github pages
+
+[demo_data](https://github.com/sventers/wikivis_demo_data)
+
+# OLD README \ Software Galaxies
 
 This repository combines visualizations of major software package managers.
 

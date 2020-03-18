@@ -1,7 +1,7 @@
 {
-  "name": "pmviz",
-  "version": "1.0.0",
-  "description": "Visualization of common package managers",
+  "name": "wikivis",
+  "version": "0.1.0",
+  "description": "Visualization of wikipedia links",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,25 +10,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anvaka/pm.git"
+    "urlold": "https://github.com/anvaka/pm.git",
+    "url": "https://github.com/sventers/wikivis"
   },
   "keywords": [
     "ngraph",
     "visualization",
-    "package",
-    "managers",
-    "npm",
-    "bower",
-    "cpan",
-    "composer",
-    "go"
+    "wikipedia",
+    "pywikibot",
+    "network",
+    "wikidata"
   ],
-  "author": "Andrei Kashcha",
+  "og-author": "Andrei Kashcha",
+  "repurposer": "Sam Venters",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anvaka/pm/issues"
+    "url": "https://github.com/sventers/wikivis/issues",
+    "urlold": "https://github.com/anvaka/pm/issues"
   },
-  "homepage": "https://github.com/anvaka/pm",
+  "homepage": "https://github.com/sventers/wikivis",
+  "oldhomepage": "https://github.com/anvaka/pm",
   "devDependencies": {
     "express": "^4.12.3",
     "ngraph.generators": "0.0.15",
