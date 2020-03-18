@@ -9,11 +9,11 @@ export default class WelcomePage extends React.Component {
         <h2>Choose your destination:</h2>
         <div className='media-list'>
 
-          <Destination description='Bullshit world'
-                      href='#/galaxy/Jean_Hoerni?l=1'
-                      name='bs'/>
+          <Destination description='Verify one works then all'
+                      href='#/galaxy/Epistemology?l=1'
+                      name='Epistemology World'/>
 
-          <Destination description='Client side JavaScript package manager'
+          {/* <Destination description='Client side JavaScript package manager'
                       href='#/galaxy/bower?l=1'
                       media='bower_fly_first.png'
                       name='Bower'/>
@@ -41,7 +41,7 @@ export default class WelcomePage extends React.Component {
           <Destination description='Python Package Index'
                       href='#/galaxy/python?cx=-2700&cy=377&cz=5622&lx=-0.0869&ly=-0.2315&lz=-0.0338&lw=0.9684&ml=150&s=1.75&l=1&v=2015-09-27T13-00-00Z'
                       media='composer_fly_first.png'
-                      name='Python (PyPI)'/>
+                      name='Python (PyPI)'/> */}
 
 
         </div>
