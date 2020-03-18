@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "mkdir -p ./build && cp ./src/index.html ./build/ && webpack -p --config webpack.production.config.js",
-    "start": "PORT=8081 node dev-server.js"
+    "start": "PORT=8081 node dev-server.js",
+    "testpredeploy": "npm run build",
+    "testdeploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
@@ -32,6 +34,7 @@
   "oldhomepage": "https://github.com/anvaka/pm",
   "devDependencies": {
     "express": "^4.12.3",
+    "gh-pages": "^2.2.0",
     "ngraph.generators": "0.0.15",
     "react-hot-loader": "^1.2.7",
     "webpack-dev-server": "^1.9.0"
