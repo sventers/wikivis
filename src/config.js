@@ -1,3 +1,3 @@
 export default {
-  dataUrl: 'http://127.0.0.1:8080/'
+  dataUrl: '//sventers.github.io/wikivis_demo_data/'
 };
