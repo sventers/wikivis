@@ -1,6 +1,6 @@
 # Wikivis
 
-[wikivis](https://sventers.github.io/wikivi)
+[wikivis](https://sventers.github.io/wikivis/)
 
 ## Intro
 
