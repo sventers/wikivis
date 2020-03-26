@@ -1,16 +1,18 @@
 # Wikivis
 
+[wikivis](https://sventers.github.io/wikivi)
+
 ## Intro
 
 I adapted anvaka's pm (package_manager)
   
-  - [pm - github](https://github/anvaka/pm) 
+  - [pm - github](https://github.com/anvaka/pm) 
   - [pm - demos](http://anvaka.github.io/pm/#/)
   
 to some wikipedia link clusters. There are some other interesting implementations he build out as well like
 
-- [github users cerca 2015]()
-- [word2vec feat glove]()
+- [github users cerca 2015](https://github.com/anvaka/allgithub)
+- [word2vec feat glove](https://github.com/anvaka/word2vec-graph)
 
 Thanks you anvaka for such a nice visualization package!
 
