@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "mkdir -p ./build && cp ./src/index.html ./build/ && webpack -p --config webpack.production.config.js",
     "start": "PORT=8081 node dev-server.js",
-    "testpredeploy": "npm run build",
-    "testdeploy": "gh-pages -d build"
+    "ghpages_predeploy": "npm run build",
+    "ghpages_deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
